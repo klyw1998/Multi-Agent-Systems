@@ -12,3 +12,6 @@ This work is done in Nov 2021.
 ### Reinforcement Learning for Cooperative Multi-Agent Systems_first version
 This proposal is my first paperwork in MARL. The quality is not that good...  
 This work is done on Nov 20, 2022.
+
+### Reinforcement Learning for Cooperative Multi-Agent Systems
+This file will be updated with the latest version every few days.
